@@ -20,10 +20,15 @@ Dashboard Features
 Visual Analytics
 
 Geographic Analysis: State-wise sales distribution (Maharashtra leads)
+
 Product Categories: Clothing (63%), Electronics (21%), Furniture (17%)
+
 Time Intelligence: Monthly profit trends with quarterly filters
+
 Customer Insights: Top customers by revenue contribution
+
 Payment Analytics: COD (44%), UPI (21%), Credit Card (12%)
+
 Product Performance: Sub-category profitability analysis
 
 Power BI Components
