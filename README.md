@@ -33,9 +33,9 @@ Filters: Quarterly and yearly filters for dynamic analysis.
 
 🛠️ Tools & Technologies
 
-Power BI / Tableau / Excel (whichever tool you used, update accordingly)
+Power BI and Excel
 
-Data Cleaning & Transformation: Python / SQL (if applicable)
+Data Cleaning & Transformation and DAX
 
 Visualization: Interactive charts, graphs, and filters
 
